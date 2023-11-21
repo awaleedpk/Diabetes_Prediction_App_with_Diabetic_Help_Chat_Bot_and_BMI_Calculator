@@ -1,1 +1,1 @@
-openai_key="ENTER YOUR OWN KEY"
+openai_key="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"
