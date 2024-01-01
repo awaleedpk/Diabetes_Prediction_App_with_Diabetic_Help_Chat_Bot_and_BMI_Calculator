@@ -1,6 +1,9 @@
 # Diabetes Prediction App
 
 This GitHub repository hosts a Diabetes Prediction App developed with Python, leveraging machine learning techniques and the Streamlit library. The application enables users to predict the likelihood of diabetes based on various health metrics. The predictive model is built using the k-nearest neighbors algorithm, and the app provides an interactive interface for users to input their health information and receive instant predictions.
+![Image Description](https://github.com/awaleedpk/Diabetes_Prediction_App_with_Diabetic_Help_Chat_Bot_and_BMI_Calculator/raw/main/Images/BMI.png)
+![Image Description](https://github.com/awaleedpk/Diabetes_Prediction_App_with_Diabetic_Help_Chat_Bot_and_BMI_Calculator/raw/main/Images/Diabetes_HelpBot.png)
+![Image Description](https://github.com/awaleedpk/Diabetes_Prediction_App_with_Diabetic_Help_Chat_Bot_and_BMI_Calculator/raw/main/Images/Diabetes_Prediction.png)
 
 ## Features
 
